@@ -2,6 +2,18 @@
   padding-top: 5rem;
   background-color: #e2edff;
 }
+
+"object-fit": (
+  responsive: true,
+  property: object-fit,
+  values: (
+    contain: contain,
+    cover: cover,
+    fill: fill,
+    scale: scale-down,
+    none: none,
+  )
+)
 #galeri {
   background-color: #e2edff;
 }
